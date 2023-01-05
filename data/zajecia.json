@@ -1,0 +1,248 @@
+[
+    {
+        "id": 1,
+        "type": "judo",
+        "place": "Radosne Lata",
+        "day": "Poniedziałek",
+        "hourStart": "10:30",
+        "hourEnd": "12:00"
+    },
+    {
+        "id": 2,
+        "type": "judo",
+        "place": "SP im. Ks. J. Poniatowskiego",
+        "day": "Poniedziałek",
+        "hourStart": "15:00",
+        "hourEnd": "16:00"
+    },
+    {
+        "id": 3,
+        "type": "judo",
+        "place": "Vancouver Schools",
+        "day": "Poniedziałek",
+        "hourStart": "16:10",
+        "hourEnd": "17:10"
+    },
+    {
+        "id": 4,
+        "type": "judo",
+        "place": "Fundacja Edukacyjna Varsovia",
+        "day": "Poniedziałek",
+        "hourStart": "17:00",
+        "hourEnd": "18:00"
+    },
+    {
+        "id": 5,
+        "type": "judo",
+        "place": "Przedszkole Karuzela",
+        "day": "Wtorek",
+        "hourStart": "14:00",
+        "hourEnd": "15:00"
+    },
+    {
+        "id": 6,
+        "type": "judo",
+        "place": "Rubik Music School Ochota",
+        "day": "Wtorek",
+        "hourStart": "14:30",
+        "hourEnd": "15:30"
+    },
+    {
+        "id": 7,
+        "type": "judo",
+        "place": "Przedszkole Buzzy Bee",
+        "day": "Wtorek",
+        "hourStart": "16:00",
+        "hourEnd": "16:30"
+    },
+    {
+        "id": 8,
+        "type": "judo",
+        "place": "Przedszkole Radosne Lata",
+        "day": "Środa",
+        "hourStart": "11:00",
+        "hourEnd": "12:30"
+    },
+    {
+        "id": 9,
+        "type": "judo",
+        "place": "SP im. Ks. J. Poniatowskiego",
+        "day": "Środa",
+        "hourStart": "15:00",
+        "hourEnd": "16:00"
+    },
+    {
+        "id": 10,
+        "type": "judo",
+        "place": "Przedszkole Ciekawi Świata",
+        "day": "Środa",
+        "hourStart": "15:30",
+        "hourEnd": "16:00"
+    },
+    {
+        "id": 11,
+        "type": "judo",
+        "place": "Fundacja Edukacyjna Varsovia",
+        "day": "Środa",
+        "hourStart": "17:00",
+        "hourEnd": "18:00"
+    },
+    {
+        "id": 12,
+        "type": "judo",
+        "place": "Przedszkole Buzzy Bee",
+        "day": "Wtorek",
+        "hourStart": "16:00",
+        "hourEnd":" 16:30"
+    },
+    {
+        "id": 13,
+        "type": "judo",
+        "place": "SP im. Polskich Olimpijczyków",
+        "day": "Czwartek",
+        "hourStart": "8:00",
+        "hourEnd": "9:00"
+    },
+    {
+        "id": 14,
+        "type": "judo",
+        "place": "DoMisia",
+        "day": "Czwartek",
+        "hourStart": "11:30",
+        "hourEnd": "12:00"
+    },
+    {
+        "id": 15,
+        "type": "judo",
+        "place": "Big Little Things",
+        "day": "Czwartek",
+        "hourStart": "15:30",
+        "hourEnd": "16:00"
+    },
+    {
+        "id": 16,
+        "type": "judo",
+        "place": "Vancouver Schools",
+        "day": "Czwartek",
+        "hourStart": "16:55",
+        "hourEnd": "17:55"
+    },
+    {
+        "id": 17,
+        "type": "judo",
+        "place": "Przedszkole Mali Olimpijczycy",
+        "day": "Piątek",
+        "hourStart": "11:10",
+        "hourEnd": "12:10"
+    },
+    {
+        "id": 18,
+        "type": "judo",
+        "place": "Rubik Music School Mokotów",
+        "day": "Piątek",
+        "hourStart": "13:45",
+        "hourEnd": "14:45"
+    },
+
+
+    
+    {
+        "id": 19,
+        "type": "karate",
+        "place": "Przedszkole Przytulanka",
+        "day": "Poniedziałek",
+        "hourStart": "8:45",
+        "hourEnd": "9:50"
+    },
+    {
+        "id": 20,
+        "type": "karate",
+        "place": "Przedszkole Primrose",
+        "day": "Poniedziałek",
+        "hourStart": "16:00",
+        "hourEnd": "17:00"
+    },
+    {
+        "id": 21,
+        "type": "karate",
+        "place": "Przedszkole Przytulanka",
+        "day": "Wtorek",
+        "hourStart": "9:00",
+        "hourEnd": "11:00"
+    },
+    {
+        "id": 22,
+        "type": "karate",
+        "place": "Przedszkole Ali i Asa",
+        "day": "Wtorek",
+        "hourStart": "16:00",
+        "hourEnd": "16:30"
+    },
+    {
+        "id": 23,
+        "type": "karate",
+        "place": "Przedszkole Tequesta Żoliborz",
+        "day": "Środa",
+        "hourStart": "13:00",
+        "hourEnd": "14:30"
+    },
+    {
+        "id": 24,
+        "type": "karate",
+        "place": "The International School",
+        "day": "Czwartek",
+        "hourStart": "15:30",
+        "hourEnd": "16:15"
+    },
+    {
+        "id": 25,
+        "type": "karate",
+        "place": "Przedszkole Ali i Asa",
+        "day": "Piątek",
+        "hourStart": "16:00",
+        "hourEnd": "16:30"
+    },
+
+
+    
+    {
+        "id": 26,
+        "type": "balet",
+        "place": "Rubik Music School Ochota",
+        "day": "Poniedziałek",
+        "hourStart": "15:00",
+        "hourEnd": "15:30"
+    },
+    {
+        "id": 27,
+        "type": "balet",
+        "place": "Przedszkole Big Little Things",
+        "day": "Poniedziałek",
+        "hourStart": "15:30",
+        "hourEnd": "16:00"
+    },
+    {
+        "id": 28,
+        "type": "balet",
+        "place": "Rubik Music School Mokotów",
+        "day": "Wtorek",
+        "hourStart": "15:00",
+        "hourEnd": "15:30"
+    },
+    {
+        "id": 29,
+        "type": "balet",
+        "place": "Rubik Music School Ochota II",
+        "day": "Środa",
+        "hourStart": "14:30",
+        "hourEnd": "15:00"
+    },
+    {
+        "id": 30,
+        "type": "balet",
+        "place": "Przedszkole Primrose",
+        "day": "Piątek",
+        "hourStart": "16:00",
+        "hourEnd": "16:30"
+    }
+]

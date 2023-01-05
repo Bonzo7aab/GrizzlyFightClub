@@ -1,0 +1,112 @@
+[
+    {
+       "id":1,
+       "name":"Niepubliczny Żłobek - Przedszkole - Radosne Lata - Magda Cieślikiewicz",
+       "short":"Radosne Lata",
+       "address":"Minerska 54, 04-506 Warszawa",
+       "position":{
+          "lat":52.23260764875428,
+          "lng":21.1340384894581
+       },
+       "type": "kindergarden"
+    },
+    {
+       "id":2,
+       "name":"Prywatne Przedszkole Dwujęzyczne Primrose",
+       "short":"Primrose",
+       "address":"Bernardyńska 16A/U7, 02-904 Warszawa",
+       "position":{
+          "lat":52.19500386339573,
+          "lng":21.062846371333663
+       },
+       "type": "kindergarden"
+    },
+    {
+       "id":3,
+       "name":"Przedszkole Niepubliczne Kropka (dawniej Domisia)",
+       "short":"DoMisia",
+       "address":"Tawułkowa 21B, 04-953 Warszawa",
+       "position":{
+          "lat":52.17170039965068,
+          "lng":21.178280751189032
+       },
+       "type": "kindergarden"
+    },
+    {
+       "id":4,
+       "name":"Mali Olimpijczycy Przedszkole Niepubliczne z Oddziałami Integracyjnymi",
+       "short":"Mali Olimpijczycy",
+       "address":"Akacjowa 1, 05-804 Pruszków",
+       "position":{
+          "lat":52.160168921473115,
+          "lng":20.7862801423044
+       },
+       "type": "kindergarden"
+    },
+    {
+       "id":5,
+       "name":"Rubik Music School Ochota I",
+       "short":"Rubik Music School Ochota I",
+       "address":"Usypiskowa 14, 02-386 Warszawa",
+       "position":{
+          "lat":52.20325761057941,
+          "lng":20.961619484828372
+       },
+       "type": "kindergarden"
+    },
+    {
+       "id":6,
+       "name":"Rubik Music School Ochota II",
+       "short":"Rubik Music School Ochota II",
+       "address":"Drawska 11, 02-202 Warszawa",
+       "position":{
+          "lat":52.2081706681049,
+          "lng":20.956335915509957
+       },
+       "type": "kindergarden"
+    },
+    {
+       "id":7,
+       "name":"Rubik Music School Mokotów",
+       "short":"Rubik Music School Mokotów",
+       "address":"Domaniewska 41, 02-672 Warszawa",
+       "position":{
+          "lat":52.18321191036295,
+          "lng":21.000297769487034
+       },
+       "type": "kindergarden"
+    },
+    {
+       "id":8,
+       "name":"Niepubliczne Przedszkole Polsko-Angielskie 'Buzzy Bee'",
+       "short":"Buzzy Bee",
+       "address":"Śląska 45, 02-462 Warszawa",
+       "position":{
+          "lat":52.203955585557345,
+          "lng":20.929123662800297
+       },
+       "type": "kindergarden"
+    },
+    {
+       "id":9,
+       "name":"Przedszkole Montessori 'Ciekawi Świata'",
+       "short":"Ciekawi Świata",
+       "address":"Dęblińska 4, 04-187 Warszawa",
+       "position":{
+          "lat":52.237175192091975,
+          "lng":21.11504806420947
+       },
+       "type": "kindergarden"
+    },
+    {
+       "id":10,
+       "name":"BIG LITTLE THINGS - Przedszkole Dwujęzyczne",
+       "short":"Big Little Things",
+       "address":"Jana Kazimierza 11 B/LU 7, 01-248 Warszawa",
+       "position":{
+          "lat":52.224339983705555,
+          "lng":20.94917105721897
+       },
+       "type": "kindergarden"
+    }
+]

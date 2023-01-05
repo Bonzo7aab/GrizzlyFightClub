@@ -1,0 +1,57 @@
+[
+    {
+       "id":51,
+       "name":"Fundacja Edukacyjna 'VARSOVIA'",
+       "short":"Fundacja Edukacyjna Varsovia",
+       "address":"Jana Sebastiana Bacha 2, 02-743 Warszawa",
+       "position":{
+          "lat":52.17262904300212,
+          "lng":21.032786227157136
+       },
+       "type": "school"
+    },
+    {
+       "id":52,
+       "name":"VANCOUVER SCHOOLS Dwujęzyczna Angielsko Polska Szkoła Podstawowa International Elementary School",
+       "short":"Vancouver Schools",
+       "address":"Globusowa 38, 02-447 Warszawa",
+       "position":{
+          "lat":52.21026541896514,
+          "lng":20.912791029205156
+       },
+       "type": "school"
+    },
+    {
+       "id":53,
+       "name":"Szkoła Podstawowa w Ładach",
+       "short":"im. Józefa Poniatowskiego",
+       "address":"Długa 49, 05-090 Łady",
+       "position":{
+          "lat":52.12721479592678,
+          "lng":20.96153812900213
+       },
+       "type": "school"
+    },
+    {
+       "id":54,
+       "name":"Zespół Szkół Publicznych w Mysiadle Filia Zgorzała",
+       "short":"im. Polskich Olimpijczyków",
+       "address":"Cyraneczki 8, 05-500 Zgorzała",
+       "position":{
+          "lat":52.10433343821446,
+          "lng":20.980237871331124
+       },
+       "type": "school"
+    },
+    {
+       "id":55,
+       "name":"Szkoła Międzynarodowa The International School",
+       "short":"The International School",
+       "address":"Jagielska 2, 02-886 Warszawa",
+       "position":{
+          "lat":52.11230033354034,
+          "lng":21.04003291366093
+       },
+       "type": "school"
+    }
+]

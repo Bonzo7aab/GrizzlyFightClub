@@ -1,0 +1,68 @@
+{
+    "_createdAt": "2022-08-09T15:24:01Z",
+    "_rev": "fdkz0O7Na5KVnGhi7g5s4m",
+    "description": [
+        {
+            "_key": "bf386564a032",
+            "_type": "block",
+            "children": [
+                {
+                    "_key": "dca7c11b2409",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Troche tekstu"
+                }
+            ],
+            "markDefs": [],
+            "style": "h2"
+        },
+        {
+            "_key": "5c56d2015eac",
+            "_type": "block",
+            "children": [
+                {
+                    "_key": "e61394788a63",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "punkt 1"
+                }
+            ],
+            "level": 1,
+            "listItem": "bullet",
+            "markDefs": [],
+            "style": "normal"
+        },
+        {
+            "_key": "3987171d05ff",
+            "_type": "block",
+            "children": [
+                {
+                    "_key": "f830eea89310",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "punkt2"
+                }
+            ],
+            "level": 1,
+            "listItem": "bullet",
+            "markDefs": [],
+            "style": "normal"
+        },
+        {
+            "_key": "2d425b9de9f7",
+            "_type": "block",
+            "children": [
+                {
+                    "_key": "a3e61587a928",
+                    "_type": "span",
+                    "marks": [],
+                    "text": "Reszta lorem ipsum textu"
+                }
+            ],
+            "markDefs": [],
+            "style": "normal"
+        }
+    ],
+    "image": "https://cdn.sanity.io/images/pji003bq/production/1ed06ae3ca3f5f7ace61769f847ffb74bb20b8ca-1800x1200.jpg",
+    "title": "Przykladowy tytul"
+}
